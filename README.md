@@ -14,7 +14,7 @@ Sou aluno do ensino profissional, atualmente a frequentar o **10.º ano do Curso
 ### 🖥️ Hardware e Sistemas
 - **Manutenção de computadores** — diagnóstico básico, substituição de componentes e otimização.
 - **Configuração de sistemas** — instalação e configuração de sistemas operativos.
-- **Montagem e manuteção de computadores** — instalação e configuração de sistemas operativos.
+- **Montagem e manuteção de computadores** — Montagem e manutenção de computadores — Conhecimentos na montagem e desmontagem de computadores, instalação e substituição de componentes (RAM, disco, placa gráfica, fonte de alimentação, entre outros), ligação correta de cabos internos e periféricos, bem como verificação do seu funcionamento. Capacidade para realizar manutenção preventiva e corretiva, incluindo limpeza interna, identificação de avarias e resolução de problemas básicos de hardware, garantindo o bom desempenho dos equipamentos.
 
 ### 🎨 Multimédia e Criação Digital
 - **Edição de vídeo** — cortes, montagem e pós‑produção simples.
