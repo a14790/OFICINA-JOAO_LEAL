@@ -6,7 +6,7 @@ Sou aluno do ensino profissional, atualmente a frequentar o **10.º ano do Curso
 
 ## 🧠 Competências Técnicas
 
-Ao longo do meu percurso no curso profissional, tenho vindo a desenvolver competências técnicas nas áreas da programação, hardware e multimédia. Possuo capacidade de aplicar conhecimentos teóricos em contexto prático, resolver problemas de forma estruturada e adaptar-me a diferentes desafios tecnológicos. Procuro trabalhar com rigor, organização e espírito crítico, consolidando as minhas competências através de projetos e aprendizagem contínua.
+Ao longo do meu percurso no curso profissional, desenvolvi competências técnicas nas áreas de programação, hardware, multimédia e criação 3D. Tenho capacidade para aplicar conhecimentos teóricos em projetos práticos, resolver problemas de forma estruturada e adaptar-me a diferentes desafios tecnológicos.
 
 
 ### 💻 Programação e Desenvolvimento
